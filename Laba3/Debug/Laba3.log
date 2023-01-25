@@ -1,0 +1,15 @@
+﻿  Laba3.cpp
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(80,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(81,17): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(81,29): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(92,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(100,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(103,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(108,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(120,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(132,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba3\Laba3\Laba3.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+  Laba3.vcxproj -> C:\Users\User\source\repos\Laba3\Debug\Laba3.exe
